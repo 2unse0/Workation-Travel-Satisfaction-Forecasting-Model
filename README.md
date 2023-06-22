@@ -1,3 +1,4 @@
+데이터 마이닝을 통한 여행객의 워케이션 만족도 증진
 # Project![(1-26) 워케이션_12+11](https://user-images.githubusercontent.com/115604707/209646265-08f683eb-1556-4c82-927c-d9f8afd9a0ea.jpg)
 ![(2-26) 워케이션_12+11](https://user-images.githubusercontent.com/115604707/209646277-8cf8e13e-e12b-48f4-936e-064d74b3179f.jpg)
 ![(3-26) 워케이션_12+11](https://user-images.githubusercontent.com/115604707/209646281-83738678-3b6f-413a-931f-10aae7f1171d.jpg)
